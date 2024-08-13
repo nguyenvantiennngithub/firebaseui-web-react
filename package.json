@@ -25,7 +25,7 @@
   "author": "Google",
   "repository": {
     "type": "git",
-    "url": "https://github.com/firebase/firebaseui-web-react.git"
+    "url": "https://github.com/nguyenvantiennngithub/firebaseui-web-react.git"
   },
   "license": "Apache-2.0",
   "peerDependencies": {
